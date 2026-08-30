@@ -8,9 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>Laboratoire de Géologie, ENS-PSL</p>
-    <p>Paris, France</p>
+  more_info:
 
 selected_papers: false
 social: false

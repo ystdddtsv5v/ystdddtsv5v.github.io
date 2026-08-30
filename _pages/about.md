@@ -1,28 +1,25 @@
----
-layout: about
-title: about
-permalink: /
-subtitle: Ph.D. Candidate in Geophysics, École normale supérieure – PSL
+I am a Ph.D. candidate in Earth Sciences at the Laboratoire de Géologie, École normale supérieure (ENS), PSL University, Paris.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
-  more_info: >
-    <p>Laboratoire de Géologie</p>
-    <p>École normale supérieure – PSL</p>
-    <p>Paris, France</p>
+My research focuses on earthquake and slow-earthquake physics. In particular, I investigate how the tidal sensitivity of tectonic tremor can reveal fault conditions and provide insights into earthquake and slow-slip processes.
 
-selected_papers: false
-social: true
+## Research
 
-announcements:
-  enabled: false
+**Tectonic Tremor & Tidal Triggering**  
+Using tremor tidal sensitivity to probe fault conditions and stress evolution.
 
-latest_posts:
-  enabled: false
----
+**Slow Slip & Earthquake Processes**  
+Investigating the interactions between slow fault slip, tremor, and earthquakes.
 
-I am a Ph.D. candidate in geophysics at the Laboratoire de Géologie, École normale supérieure – PSL.
+**Fault Modeling & Earthquake Physics**  
+Using numerical modeling to understand fault-slip, triggering, and earthquake processes.
 
-My research focuses on **earthquake physics, slow slip events, tectonic tremor, tidal triggering, and numerical modeling of fault systems**.
+## Education
+
+**2024–Present · Ph.D. in Earth Sciences**  
+École normale supérieure (ENS), PSL University · Paris, France
+
+**2021–2023 · M.Sc. in Civil & Hydraulic Engineering**  
+Tianjin University · Tianjin, China
+
+**2017–2021 · B.Eng. in Civil Engineering**  
+China University of Mining and Technology–Beijing · Beijing, China

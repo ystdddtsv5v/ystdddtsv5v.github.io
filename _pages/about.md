@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Earth Sciences, École normale supérieure – PSL
+subtitle: >
+  Ph.D. Candidate in Earth Sciences, École normale supérieure – PSL<br>
+  <a href="mailto:yzhou@geologie.ens.fr">✉ yzhou@geologie.ens.fr</a>
 
 profile:
   align: right

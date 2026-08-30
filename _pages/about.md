@@ -43,11 +43,8 @@ Using numerical modeling to understand fault-slip, triggering, and earthquake pr
 
 ## Education
 
-**Ph.D. | École normale supérieure (ENS), PSL University**  
-Earth Sciences | 2024–Present | Advisors: Hideo Aochi, Harsha S. Bhat, and Alexandre Schubnel
+**Ph.D. | École normale supérieure (ENS), PSL University** Earth Sciences | 2024–Present | Advisors: Hideo Aochi, Harsha S. Bhat, and Alexandre Schubnel
 
-**M.Sc. | Tianjin University**  
-Civil & Hydraulic Engineering | 2021–2023 | Advisors: Kaiwen Xia and Peng Dong
+**M.Sc. | Tianjin University** Civil & Hydraulic Engineering | 2021–2023 | Advisors: Kaiwen Xia and Peng Dong
 
-**B.Eng. | China University of Mining and Technology–Beijing**  
-Civil Engineering | 2017–2021
+**B.Eng. | China University of Mining and Technology–Beijing** Civil Engineering | 2017–2021

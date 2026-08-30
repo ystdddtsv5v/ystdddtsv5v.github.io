@@ -47,3 +47,13 @@ Using numerical modeling to understand fault-slip, triggering, and earthquake pr
 **M.Sc. \| Tianjin University** Civil & Hydraulic Engineering \| 2021–2023 \| Advisors: Kaiwen Xia and Peng Dong
 
 **B.Eng. \| China University of Mining and Technology–Beijing** Civil Engineering \| 2017–2021 \| Advisor: Zhongwen Yue
+
+
+<style>
+  .publications h2 {
+    font-size: 2.1rem;
+    font-weight: 700;
+    margin-top: 2.5rem;
+    margin-bottom: 1.2rem;
+  }
+</style>

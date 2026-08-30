@@ -49,10 +49,27 @@ Using numerical modeling to understand fault-slip, triggering, and earthquake pr
 **B.Eng. \| China University of Mining and Technology–Beijing** Civil Engineering \| 2017–2021 \| Advisor: Zhongwen Yue
 
 
-<div style="margin-top: 3.5rem;"></div>
+<h2 style="font-size: 2.1rem; font-weight: 700; margin-top: 3.5rem; margin-bottom: 1.5rem;">Selected Publications</h2>
 
-## Selected Publications
+<p>
+<strong>Extended time delay and complex rupture behaviors of dynamically triggered earthquakes on gouge-filled fault</strong><br>
+Yishuo Zhou, Ran Xu, Peng Dong, and Kaiwen Xia<br>
+<em>Earth and Planetary Science Letters</em>, 679, 119853, 2026<br>
+<a href="https://doi.org/10.1016/j.epsl.2026.119853">DOI</a>
+</p>
 
-<div class="publications">
-{% bibliography -f papers -q @*[selected=true]* %}
-</div>
+<p style="margin-top: 1.8rem;">
+<strong>Theoretical constraints on tidal triggering of slow earthquakes</strong><br>
+Yishuo Zhou, Ankit Gupta, Hideo Aochi, Alexandre Schubnel, Satoshi Ide, Pierpaolo Dubernet, and Harsha S. Bhat<br>
+<em>Journal of Geophysical Research: Solid Earth</em>, 2026<br>
+Under review<br>
+<a href="https://arxiv.org/abs/2602.06703">arXiv</a>
+</p>
+
+<p style="margin-top: 1.8rem;">
+<strong>Tidal sensitivity of tremors in a mixed fast and slow earthquake system in northeastern Japan</strong><br>
+Yishuo Zhou, Hideo Aochi, Alexandre Schubnel, Satoshi Ide, and Harsha S. Bhat<br>
+<em>Journal of Geophysical Research: Solid Earth</em>, 2026<br>
+Under review<br>
+<a href="https://arxiv.org/abs/2606.24362">arXiv</a>
+</p>

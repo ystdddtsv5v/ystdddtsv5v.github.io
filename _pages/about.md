@@ -1,3 +1,27 @@
+---
+layout: about
+title: about
+permalink: /
+subtitle: Ph.D. Candidate in Earth Sciences, École normale supérieure – PSL
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>Laboratoire de Géologie, ENS-PSL</p>
+    <p>Paris, France</p>
+
+selected_papers: false
+social: true
+
+announcements:
+  enabled: false
+
+latest_posts:
+  enabled: false
+---
+
 I am a Ph.D. candidate in Earth Sciences at the Laboratoire de Géologie, École normale supérieure (ENS), PSL University, Paris.
 
 My research focuses on earthquake and slow-earthquake physics. In particular, I investigate how the tidal sensitivity of tectonic tremor can reveal fault conditions and provide insights into earthquake and slow-slip processes.

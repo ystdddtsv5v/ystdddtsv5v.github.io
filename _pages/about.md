@@ -50,12 +50,12 @@ Using numerical modeling to understand fault-slip, triggering, and earthquake pr
 
 
 <style>
-  .publications h2 {
-    font-size: 2.1rem;
-    font-weight: 700;
-    margin-top: 2.5rem;
-    margin-bottom: 1.2rem;
-  }
+.publications h2 {
+  font-size: 2.1rem;
+  font-weight: 700;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
 
   .publications ol.bibliography li .row {
     display: block;

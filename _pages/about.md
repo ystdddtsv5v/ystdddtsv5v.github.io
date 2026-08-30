@@ -26,7 +26,7 @@ I am a **Ph.D. candidate in Earth Sciences** at the **Laboratoire de Géologie, 
 
 My research focuses on **earthquake and slow-earthquake physics**. In particular, I investigate how the **tidal sensitivity of tectonic tremor** can reveal **fault conditions** and provide insights into **earthquake and slow-slip processes**.
 
-<br>
+
 
 ## Research
 
@@ -39,7 +39,7 @@ Investigating the interactions between slow fault slip, tremor, and earthquakes.
 **Fault Modeling & Earthquake Physics**  
 Using numerical modeling to understand fault-slip, triggering, and earthquake processes.
 
-<br>
+
 
 ## Education
 
@@ -47,4 +47,4 @@ Using numerical modeling to understand fault-slip, triggering, and earthquake pr
 
 **M.Sc. | Tianjin University** Civil & Hydraulic Engineering | 2021–2023 | Advisors: Kaiwen Xia and Peng Dong
 
-**B.Eng. | China University of Mining and Technology–Beijing** Civil Engineering | 2017–2021 | Advisors: Zhongwen Yues
+**B.Eng. | China University of Mining and Technology–Beijing** Civil Engineering | 2017–2021 | Advisors: Zhongwen Yue

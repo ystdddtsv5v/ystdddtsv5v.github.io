@@ -56,4 +56,20 @@ Using numerical modeling to understand fault-slip, triggering, and earthquake pr
     margin-top: 2.5rem;
     margin-bottom: 1.2rem;
   }
+
+  .publications ol.bibliography li .row {
+    display: block;
+  }
+
+  .publications ol.bibliography li .abbr {
+    display: none;
+  }
+
+  .publications ol.bibliography li .col-sm-8,
+  .publications ol.bibliography li .col-sm-10 {
+    width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+    margin-left: 0;
+  }
 </style>

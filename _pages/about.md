@@ -12,7 +12,7 @@ profile:
   image_circular: false
   more_info:
 
-selected_papers: true
+selected_papers: false
 social: false
 
 announcements:
@@ -49,27 +49,10 @@ Using numerical modeling to understand fault-slip, triggering, and earthquake pr
 **B.Eng. \| China University of Mining and Technology–Beijing** Civil Engineering \| 2017–2021 \| Advisor: Zhongwen Yue
 
 
-<style>
-.publications h2 {
-  font-size: 2.1rem;
-  font-weight: 700;
-  margin-top: 4rem;
-  margin-bottom: 2rem;
-}
+<div style="margin-top: 3.5rem;"></div>
 
-  .publications ol.bibliography li .row {
-    display: block;
-  }
+## Selected Publications
 
-  .publications ol.bibliography li .abbr {
-    display: none;
-  }
-
-  .publications ol.bibliography li .col-sm-8,
-  .publications ol.bibliography li .col-sm-10 {
-    width: 100%;
-    max-width: 100%;
-    flex: 0 0 100%;
-    margin-left: 0;
-  }
-</style>
+<div class="publications">
+{% bibliography -f papers -q @*[selected=true]* %}
+</div>
